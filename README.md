@@ -22,7 +22,7 @@
 
 ---
 
-- 🔭 I’m currently working on [Class One App](https://github.com/ahmedgamalfouad155/Class-One)
+- 🔭 I’m currently working on [Edumed App](https://github.com/ahmedgamalfouad155/Edumed)
 - 🌱 I’m currently learning **Flutter Animations**, **Clean Architecture**, and **Riverpod**
 - 💬 Ask me about **Flutter, Dart, Firebase, BLoC, Hive**
 - 📫 How to reach me: **ahmedgfouad2020@gmail.com**
